@@ -11,10 +11,10 @@ Aplikasi sederhana untuk mengelola ringkasan tabungan menggunakan Flutter.
 
 ## Screenshot
 
-Folder `screenshots` berisi tangkapan layar aplikasi pada dua ukuran layar:
+Folder `tugas` berisi tangkapan layar aplikasi pada dua ukuran layar:
 
-1. `screenshot_phone_portrait.png` – Tampilan smartphone.
-2. `screenshot_tablet.png` – Tampilan tablet.
+1. `phone.png` – Tampilan smartphone.
+2. `tablet.png` – Tampilan tablet.
 
 ## Teknologi
 - Flutter
@@ -28,4 +28,5 @@ flutter run
 ```
 
 ## Pengembang
-Nama: [Nama kamu]
+Nama: Andrew Novan Then
+NIM : 20240801024
