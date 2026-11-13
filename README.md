@@ -1,17 +1,31 @@
-# tabungku_layout
+# TabungKu – Ringkasan Tabungan
 
-A new Flutter project.
+Aplikasi sederhana untuk mengelola ringkasan tabungan menggunakan Flutter.
 
-## Getting Started
+## Fitur
+- Melihat saldo dan target tabungan.
+- Menambah saldo (Menabung).
+- Mengurangi saldo (Tarik).
+- Melihat riwayat transaksi.
+- Melihat transaksi terakhir.
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+Folder `screenshots` berisi tangkapan layar aplikasi pada dua ukuran layar:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+1. `screenshot_phone_portrait.png` – Tampilan smartphone.
+2. `screenshot_tablet.png` – Tampilan tablet.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Teknologi
+- Flutter
+- Dart
+
+## Cara Menjalankan
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Pengembang
+Nama: [Nama kamu]
